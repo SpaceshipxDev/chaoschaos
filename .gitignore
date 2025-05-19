@@ -1,0 +1,35 @@
+# Environ vars / secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Dependencies / Caches
+node_modules/
+__pycache__/
+venv/
+env/
+
+# IDE specific
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Dependencies / Caches
+node_modules/
+__pycache__/
+venv/
+env/
+
+# IDE specific
+.idea/
+.vscode/
